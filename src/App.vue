@@ -6,7 +6,14 @@
 
 <script>
     export default {
-        
+        data() {
+            return {
+                quotes: [
+                    'Test Quote'
+                ],
+                maxQuotes: 10
+            }
+        }
     }
 </script>
 
