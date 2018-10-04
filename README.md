@@ -2,7 +2,7 @@
 
 > Vue JS Quotes
 
-## Build Setup
+## Build Setups
 
 ``` bash
 # install dependencies
